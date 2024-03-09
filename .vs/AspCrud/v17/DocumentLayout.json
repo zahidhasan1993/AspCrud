@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|d:\\practiceworks\\asp-web-api-crud\\backend\\aspcrud\\aspcrud\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|solutionrelative:aspcrud\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|d:\\practiceworks\\asp-web-api-crud\\backend\\aspcrud\\aspcrud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|solutionrelative:aspcrud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|d:\\practiceworks\\asp-web-api-crud\\backend\\aspcrud\\aspcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|solutionrelative:aspcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|d:\\practiceworks\\asp-web-api-crud\\backend\\aspcrud\\aspcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE14AF0-454A-44D4-9056-03AC8B48D3FA}|AspCrud\\AspCrud.csproj|solutionrelative:aspcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "AspCrud\\appsettings.json",
+              "ToolTip": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\appsettings.json",
+              "RelativeToolTip": "AspCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T13:18:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\Program.cs",
+              "RelativeDocumentMoniker": "AspCrud\\Program.cs",
+              "ToolTip": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\Program.cs",
+              "RelativeToolTip": "AspCrud\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:56:56.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "AspCrud\\Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "AspCrud\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:46:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "AspCrud\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\practiceWorks\\Asp-web-api-crud\\backend\\AspCrud\\AspCrud\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "AspCrud\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAUwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:58:51.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
